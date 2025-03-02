@@ -18,4 +18,4 @@ MySQL Workbench <br>
 ➡️Higher watch time boosts retention, as seen in Jotstar’s engaged users, while LioCinema’s low engagement correlates with high inactivity.<br>
 
 🔗Primary and Secondary Analysis Using Power BI:https://app.powerbi.com/view?r=eyJrIjoiOWFhYTZjNWYtNzk5Zi00OWNhLThhOWItZmQ0NDQ1YTQwNGQyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9  <br>
-🔗LinkedIn Post Link:               <br>
+🔗LinkedIn Post Link: https://www.linkedin.com/posts/anjaleechavan_codebasics-rpc14-dataanalytics-activity-7301959274899939328-RN5k?utm_source=share&utm_medium=member_android&rcm=ACoAAE72FAwBSzm0O5GO_XvBiYtK75jHd0pKzPI              <br>
